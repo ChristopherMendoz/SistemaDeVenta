@@ -1,0 +1,137 @@
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\bin\Debug\Viernes17022023.exe.config
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\bin\Debug\Viernes17022023.exe
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\bin\Debug\Viernes17022023.pdb
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.csproj.AssemblyReference.cache
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.Form1.resources
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.Properties.Resources.resources
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.csproj.GenerateResource.cache
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.csproj.CoreCompileInputs.cache
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.exe
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.pdb
+C:\Users\CCBB\source\repos\Viernes17022023\Viernes17022023\obj\Debug\Viernes17022023.csproj.ResolveComReference.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.exe.config
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.exe
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.pdb
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Azure.Core.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\BouncyCastle.Crypto.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\itextsharp.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.Core.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Identity.Client.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Buffers.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.Data.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Numerics.Vectors.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Encodings.Web.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Json.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.ValueTuple.dll
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Azure.Core.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\itextsharp.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.Core.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Identity.Client.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Buffers.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.Data.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Numerics.Vectors.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Encodings.Web.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Json.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.ValueTuple.xml
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.AssemblyReference.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.SuggestedBindingRedirects.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.ResolveComReference.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.Form1.resources
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.Properties.Resources.resources
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.GenerateResource.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.CoreCompileInputs.cache
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.CopyComplete
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.exe
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.pdb
+D:\Intro a Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.loguin.resources
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.exe.config
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.exe
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Viernes17022023.pdb
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Azure.Core.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\itextsharp.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.Core.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Identity.Client.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Buffers.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.Data.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Net.Http.WinHttpHandler.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Numerics.Vectors.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Json.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.ValueTuple.dll
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Azure.Core.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\itextsharp.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Graph.Core.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.Identity.Client.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Buffers.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Memory.Data.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Net.Http.WinHttpHandler.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Numerics.Vectors.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Encodings.Web.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Text.Json.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\bin\Debug\System.ValueTuple.xml
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.AssemblyReference.cache
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.ResolveComReference.cache
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.Form1.resources
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.Properties.Resources.resources
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.GenerateResource.cache
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.CoreCompileInputs.cache
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.csproj.CopyComplete
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.exe
+D:\Programacion\VEntaDeProductosDeChristopher\VEntaDeProductosDeChristopher\Viernes17022023\obj\Debug\Viernes17022023.pdb
